@@ -113,7 +113,7 @@ The first one, *"a page where my book club can list books and vote on the next
 one"*, took about 15 minutes. It ended with 31 passing tests, after the Tester
 caught one bug and the Reviewer caught two crashes, all fixed.
 
-<p align="center"><img src="docs/example-bookclub.png" width="560" alt="Book Club Vote app built by Tinkerhall"></p>
+<p align="center"><img src="docs/example-bookclub.png" width="100%" alt="Book Club Vote, built by Tinkerhall from one sentence, shown on desktop in light mode and on a phone in dark mode"></p>
 
 If you try Tinkerhall, sharing your run in an issue helps a lot.
 
