@@ -117,6 +117,13 @@ caught one bug and the Reviewer caught two crashes, all fixed.
 
 If you try Tinkerhall, sharing your run in an issue helps a lot.
 
+## Free tools to build with
+
+Need free hosting, a database, email or icons for what you build? See
+[Free Tier Ledger](https://github.com/aayushthakurintech/free-tier-ledger), a
+hand-checked list of free tiers for developers and designers, with real limits
+and the date each one was checked.
+
 ## Contributing
 
 Ideas, bug reports and example runs are very welcome. See
