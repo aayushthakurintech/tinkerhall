@@ -1,0 +1,21 @@
+{
+  "name": "tinkerhall",
+  "owner": {
+    "name": "Aayush Thakur",
+    "url": "https://github.com/aayushthakurintech"
+  },
+  "metadata": {
+    "description": "Tinkerhall: a tiny software studio that runs inside Claude Code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "studio",
+      "source": "./plugins/studio",
+      "description": "Describe an app in plain words, approve a few decisions, and get a tested web app that runs on your computer.",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["app-builder", "beginners", "no-code", "design", "testing", "subagents"]
+    }
+  ]
+}

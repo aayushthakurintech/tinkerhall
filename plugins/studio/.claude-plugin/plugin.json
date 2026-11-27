@@ -1,0 +1,13 @@
+{
+  "name": "studio",
+  "version": "0.1.0",
+  "description": "A tiny software studio for people who are not experts. A producer talks with you in plain English and hands work to five helpers: Planner, Designer, Builder, Tester and Reviewer.",
+  "author": {
+    "name": "Aayush Thakur",
+    "url": "https://github.com/aayushthakurintech"
+  },
+  "homepage": "https://github.com/aayushthakurintech/tinkerhall",
+  "repository": "https://github.com/aayushthakurintech/tinkerhall",
+  "license": "MIT",
+  "keywords": ["app-builder", "beginners", "design", "testing", "subagents"]
+}
